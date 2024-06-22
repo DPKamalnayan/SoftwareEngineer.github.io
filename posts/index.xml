@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on SoftwareEngineer</title>
-    <link>http://DPKamalnayan/SoftwareEngineer.github.io/posts/</link>
+    <link>http://dpkamalnayan.github.io/SoftwareEngineer.github.io/posts/</link>
     <description>Recent content in Posts on SoftwareEngineer</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 29 Sep 2023 17:25:47 +0530</lastBuildDate><atom:link href="http://DPKamalnayan/SoftwareEngineer.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 29 Sep 2023 17:25:47 +0530</lastBuildDate><atom:link href="http://dpkamalnayan.github.io/SoftwareEngineer.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://DPKamalnayan/SoftwareEngineer.github.io/posts/about/</link>
+      <link>http://dpkamalnayan.github.io/SoftwareEngineer.github.io/posts/about/</link>
       <pubDate>Fri, 29 Sep 2023 17:25:47 +0530</pubDate>
       
-      <guid>http://DPKamalnayan/SoftwareEngineer.github.io/posts/about/</guid>
+      <guid>http://dpkamalnayan.github.io/SoftwareEngineer.github.io/posts/about/</guid>
       
-        <description>&amp;ldquo;hi! very nice to meet you.&amp;rdquo;</description>
+        <description>&amp;ldquo;hi! very nice to meet you.&amp;rdquo; My name is DP Kamalnayan</description>
       
     </item>
     
